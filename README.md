@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @motarek10
+- 👋 Hi, I’m Mo_tarek
 - 👀 I'm studying at BFCAI
 - 🌱 I’m currently learning c++ , oop , data structure , beginner frontend
 - 📫 my acc(facebook) : mohamed tarek ibrahim
